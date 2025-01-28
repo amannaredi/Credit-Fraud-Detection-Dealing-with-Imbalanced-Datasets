@@ -17,16 +17,6 @@ Fraud detection is a critical task in finance and e-commerce industries. However
 ### Dataset
 The dataset used for this project is publicly available [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). Download it and place it in the `data/` directory before running the notebook.
 
-### Usage
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/credit-fraud-detection.git
-    cd credit-fraud-detection
-    ```
-2. Open the Jupyter Notebook:
-    ```bash
-    jupyter notebook credit-fraud-dealing-with-imbalanced-datasets.ipynb
-    ```
 
 ## Results
 The project demonstrates effective handling of imbalanced datasets through various methods. Below is a summary of key findings:
